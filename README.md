@@ -1,1 +1,3 @@
-To be filled with pertinent information.
+# Problem Statement
+---
+Agricultural productivity is a key driver of rural economic development, influencing employment, income, and food security. However, regional variations in productivity lead to uneven impacts across rural areas. This project will analyze U.S. agricultural productivity trends over the past two decades, examine their correlation with rural development indicators like employment, income, and poverty, and predict future contributions of productivity improvements to rural economic growth. The goal is to identify the factors driving these trends and forecast their long-term effects on rural communities.
