@@ -1,3 +1,4 @@
+
 # ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Group Project by Dolphin Sharma and Charles Crocicchia
 
 ## Problem Statement
@@ -38,6 +39,21 @@ Agricultural data was collected from [USDA National Agricultural Statistics Serv
 ---
 
 
+### Conclusions
+**EDA**
+- Corn and soy farming are significant contributors to the U.S. economy, their economic influence is felt beyond just farming communities, raising incomes in corn-producing regions.
+- Following a recession, the corn and soy industries are resilient and dependable due to their necessities in maintaining a stable country.
+- Income and employment show positive correlations with corn and soybean production metrics.
+
+
+**Modeling**
+- Corn and soybean production data have strong predictive potential for employment and moderate potential for personal income in rural areas because they are likely closely tied to the agricultural sector, making crop production trends good indicators of rural employment and income.
+- Poverty levels, seem to be influenced by more complex factors beyond crop productivity like policy, local economic conditions, and demographic factors.
+- Future research could explore integrating other datasets like government assistance programs and local economic policies.
+
+---
+
+
 ### Software Requirements
 
 The following Python libraries were used to conduct our research:
@@ -45,4 +61,7 @@ The following Python libraries were used to conduct our research:
  - Pandas
  - Numpy
  - Scikit-learn
+ - Statsmodels
+ - Seaborn
+ - Matplotlib
  
