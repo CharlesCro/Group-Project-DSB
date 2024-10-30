@@ -22,11 +22,11 @@ rural economic outcomes.*
 
 ### Table of Contents
 
- 1. [EDA (Part 1)](part_1_eda.ipynb)
- 2. [EDA (Part 2)](part_2_eda.ipynb)
- 3. [Cleaning](part_3_data_cleaning.ipynb)
- 4. [Preprocessing](part_4_data_preprocessing.ipynb)
- 5. [Modeling](part_5_data_modeling.ipynb)
+ 1. [EDA (Part 1)](code/part_1_eda.ipynb)
+ 2. [EDA (Part 2)](code/part_2_eda.ipynb)
+ 3. [Cleaning](code/part_3_data_cleaning.ipynb)
+ 4. [Preprocessing](code/part_4_data_preprocessing.ipynb)
+ 5. [Modeling](code/part_5_data_modeling.ipynb)
 
 ---
 
