@@ -2,7 +2,7 @@
 # ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Group Project by Dolphin Sharma and Charles Crocicchia
 
 ## Problem Statement
-This project aims to analyze the influence of corn and soybeans, America's most farmed corps, on key economic indicators in rural U.S. areas for approximately 15 years. By examining crop-related production and sales metrics this analysis seeks to identify correlations between crop production trends and rural economic development. We will investigate whether corn and soybean production data can be used to forecast changes in rural employment, income, and poverty levels. The goal is to assess the long-term economic impacts of crop productivity and sales on rural communities and to explore the predictive potential of corn data for future economic outcomes like employment, personal_income, and poverty levels.
+This project aims to analyze and predict rural economic indicators—employment, personal income, and poverty levels—based on corn and soybean production and sales data in the United States over approximately 15 years. By examining crop-related production and sales metrics, this analysis seeks to identify correlations between crop production trends and rural economic development. We will investigate whether corn and soybean production data can be used to forecast changes in rural economic indicators, assessing both current and future impacts of crop productivity and sales on rural communities. The goal is to explore the predictive potential of corn and soybean data for forecasting key economic outcomes in rural areas.
 
 ---
 
@@ -16,8 +16,6 @@ economic development indicators.*
 - *Forecast economic outcomes based on corn and soybean 
 production trends (can corn or soybean production be used to predict 
 employment, income, and poverty levels?).*
-- *Assess the long-term impacts of corn and soybean productivity on 
-rural economic outcomes.*
 
 ---
 
